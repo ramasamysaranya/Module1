@@ -24,4 +24,4 @@ else:
 
 
 ## Result
-Thus, the result
+Thus, the program has been executed successfully.
