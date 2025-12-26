@@ -20,4 +20,4 @@ print(w)
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/db36a494-5665-4684-a45b-90eedd8255c0" />
 
 ## Result
-
+Thus, the program has been executed successfully.
